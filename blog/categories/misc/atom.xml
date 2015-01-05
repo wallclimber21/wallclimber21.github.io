@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Misc | My Octopress Blog]]></title>
+  <link href="http://wallclimber21.github.io/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://wallclimber21.github.io/"/>
+  <updated>2015-01-04T16:15:47-08:00</updated>
+  <id>http://wallclimber21.github.io/</id>
+  <author>
+    <name><![CDATA[wallclimber21]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bootup...]]></title>
+    <link href="http://wallclimber21.github.io/blog/2015/01/04/bootup-dot-dot-dot/"/>
+    <updated>2015-01-04T15:53:36-08:00</updated>
+    <id>http://wallclimber21.github.io/blog/2015/01/04/bootup-dot-dot-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
